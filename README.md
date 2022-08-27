@@ -3,7 +3,7 @@
 <h3 align="center">Frontend-developer</h3>
 <h4>
 <ul>
-<li>💪 I like to write code</li>
-<li>🏃🏻 I love climbing and traveling</li>
+<li>👨🏻‍💻 I like to write code</li>
+<li>🧗‍♂️ I love climbing and traveling</li>
 </ul>
 </h4>
