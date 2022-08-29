@@ -7,4 +7,3 @@
 <li>🧗‍♂️ I love climbing and traveling</li>
 </ul>
 </h4>
-[![codewars](https://www.codewars.com/users/Molotka/badges/small)](https://www.codewars.com/users/Molotka)
