@@ -4,6 +4,6 @@
 <h4>
 <ul>
 <li>👨🏻‍💻 I like to write code.</li>
-<li>🧗‍♂️ I love climbing and traveling</li>
+<li>🧗‍♂️ I love climbing6 paragliding and traveling</li>
 </ul>
 </h4>
